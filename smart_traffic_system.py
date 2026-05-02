@@ -22,7 +22,7 @@ INPUT_SOURCE = 0  # webcam
 # LOAD YOLO MODELS (ENSEMBLE)
 # ======================================================
 custom_model = YOLO(
-    "C:/Users/vaish/Smart_Traffic_Project/code/runs/detect/train/weights/best.pt"
+    "ADD THE YOLO MODEL LOCATION"
 )
 base_model = YOLO("yolov8n.pt")  # pretrained COCO
 
