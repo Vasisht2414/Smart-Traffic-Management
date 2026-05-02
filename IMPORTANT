@@ -1,0 +1,4 @@
+1) INSTALL ALL THE REQUIRED LIBRARIES
+pip install opencv-python numpy ultralytics torch sounddevice scipy librosa
+
+2) RUN THE train.py file
