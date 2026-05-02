@@ -11,7 +11,7 @@ SR = 22050
 N_MFCC = 40
 MAX_LEN = 40
 
-DATASET_PATH = "C:/Users/vaish/Smart_Traffic_Project/sounds"
+DATASET_PATH = "ADD THE FILE LOCATION"
 CLASSES = ["traffic", "ambulance", "firetruck"]
 AUDIO_EXTENSIONS = (".wav", ".mp3", ".flac")
 
