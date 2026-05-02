@@ -11,16 +11,16 @@ Classifies traffic density and adjusts signal timing dynamically
 Detects emergency vehicle sirens using audio-based machine learning
 Learns traffic patterns automatically using unsupervised learning
 Ensures reliable operation using a fallback mechanism
-🔄 System Workflow
-<p align="center"> <img src="assets/workflow_diagram.png" width="800"/> </p> <p align="center"> <b>Fig:</b> Workflow of AI-Based Smart Traffic Management System </p>
+
 🚀 Features
-🚗 Real-time vehicle detection and tracking
-📊 Traffic density classification (LOW / MEDIUM / HIGH)
-🚨 Emergency vehicle detection using siren audio
-🧠 Self-learning traffic pattern analysis
-🔄 Adaptive signal timing control
-⚙️ Fallback mode for fault tolerance
-🤖 Fully automated system
+Real-time vehicle detection and tracking
+Traffic density classification (LOW / MEDIUM / HIGH)
+Emergency vehicle detection using siren audio
+Self-learning traffic pattern analysis
+Adaptive signal timing control
+Fallback mode for fault tolerance
+Fully automated system
+
 🧠 Technologies Used
 Python
 OpenCV
@@ -29,6 +29,7 @@ PyTorch
 NumPy
 Librosa (Audio Processing)
 SoundDevice
+
 📂 Dataset Used
 Custom traffic dataset (images/videos)
 COCO Dataset (for pretrained YOLO)
