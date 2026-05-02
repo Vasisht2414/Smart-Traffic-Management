@@ -1,6 +1,8 @@
 1) INSTALL ALL THE REQUIRED LIBRARIES
 pip install opencv-python numpy ultralytics torch sounddevice scipy librosa
 
+YOU HAVE TO ADD THE CLASSES AND FILE LOCATION WHERE THE DATASETS AND MODELS ARE STORED
+
 2) RUN THE train.py file/ Model File
 3) RUN THE train_siren_model.py
 4) After STEP 3 RUN siren_listener_ml.py
