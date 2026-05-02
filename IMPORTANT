@@ -1,4 +1,7 @@
 1) INSTALL ALL THE REQUIRED LIBRARIES
 pip install opencv-python numpy ultralytics torch sounddevice scipy librosa
 
-2) RUN THE train.py file
+2) RUN THE train.py file/ Model File
+3) RUN THE train_siren_model.py
+4) After STEP 3 RUN siren_listener_ml.py
+5) RUN THE MAIN FILE smart_traffic_system.py
