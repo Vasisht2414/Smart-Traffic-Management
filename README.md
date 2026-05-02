@@ -24,8 +24,4 @@ The project successfully addresses the challenge of vehicle detection in road tr
 Future work can involve fine-tuning the model to handle occluded vehicles more effectively, exploring additional image augmentation techniques, and expanding the dataset to encompass diverse geographical regions and traffic scenarios. Furthermore, continuous model updates and improvements can be made based on user feedback and emerging technologies in the field of object detection and computer vision.
 
 
-## Web App Samples:
-![image](https://github.com/shirsh10mall/Object-Detection-for-Traffic-Vehicle-Detection/assets/87264071/4dc777ef-0b03-4fbb-a38e-ba00c709ec49)
-
-![image](https://github.com/shirsh10mall/Object-Detection-for-Traffic-Vehicle-Detection/assets/87264071/96a553d1-5556-4f4e-bf60-bb2d62062d94)
 
